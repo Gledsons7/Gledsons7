@@ -17,6 +17,41 @@
 
 ## `whoami`
 
+
+<h2 align="center">⌨️ SYSTEM TERMINAL</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=600&lines=%24+whoami;%3E+Gledson+Silva;%24+cat+about.txt;%3E+Software+Engineering+Student;%24+./keep_learning.sh;%3E+Success%3A+Growth+in+progress!" />
+
+</div>
+
+```bash
+┌──(gledson㉿github)-[~]
+└─$ neofetch
+
+USER       : Gledson Silva
+ROLE       : Software Engineering Student
+SYSTEM     : Developer in Progress
+LANGUAGES  : C, Python, JavaScript
+FOCUS      : Software Development
+STATUS     : Learning and Building
+```
+
+```bash
+┌──(gledson㉿github)-[~/projects]
+└─$ ls
+
+📁 personal-library-system
+📁 programming-projects
+
+┌──(gledson㉿github)-[~]
+└─$ echo "Never stop learning."
+
+Never stop learning.
+```
+
+
 ```python
 class Developer:
     def __init__(self):
