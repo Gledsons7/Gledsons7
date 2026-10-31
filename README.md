@@ -103,6 +103,28 @@ A salon appointment scheduling project with service management, availability rul
 
 ## `contribution_activity`
 
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Gledsons7/Gledsons7/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Gledsons7/Gledsons7/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Gledsons7/Gledsons7/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
+
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gledsons7&bg_color=020617&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=1d4ed8&hide_border=true" />
