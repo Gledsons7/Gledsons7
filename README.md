@@ -1,62 +1,121 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Gledson%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20programa%C3%A7%C3%A3o&descAlignY=55&descSize=16" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:1d4ed8,100:38bdf8&height=220&section=header&text=GLEDSON%20SILVA&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=DEVELOPER%20IN%20PROGRESS&descSize=16&descAlignY=58&descColor=bfdbfe" />
 
-# Olá! Eu sou Gledson 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Building+ideas+with+code.;Learning.+Creating.+Improving.;Turning+coffee+into+code+%E2%98%95" />
 
-**Estudante de programação | Desenvolvedor em formação**
+<br>
 
-Buscando aprender, praticar e transformar ideias em projetos reais.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Gledsons7-181717?style=for-the-badge&logo=github)](https://github.com/Gledsons7)
+<a href="https://github.com/Gledsons7">
+  <img src="https://img.shields.io/badge/GitHub-Gledsons7-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Gledsons7&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## `whoami`
 
-- 🎓 Estudante de programação.
-- 🌱 Aprendendo e aprimorando minhas habilidades em desenvolvimento.
-- 💻 Desenvolvendo projetos acadêmicos e pessoais.
-- 🚀 Interessado em lógica de programação, desenvolvimento de sistemas e tecnologia.
-- 📚 Sempre buscando aprender algo novo.
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Gledson Silva"
+        self.role = "Computer Science Student"
+        self.focus = ["Programming", "Problem Solving", "Software Development"]
+        self.languages = ["C", "Python", "JavaScript"]
+        self.current_goal = "Building better things through code"
 
-## 🛠️ Tecnologias
+    def say_hello(self):
+        print("Welcome to my GitHub!")
+        
+me = Developer()
+me.say_hello()
+```
+
+> I believe every great developer started with a simple line of code.  
+> I'm here to learn, experiment, build projects and evolve every day.
+
+## `tech_stack`
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Languages
+
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 
 </div>
 
-## 📂 Projetos em destaque
+## `featured_projects`
 
-### 📚 Sistema de Biblioteca Pessoal
+<table>
+<tr>
+<td width="50%">
 
-Sistema para gerenciamento de uma biblioteca pessoal, com organização de publicações, leituras e persistência de dados.
+### 📚 Personal Library System
 
-[![Repositório](https://img.shields.io/badge/VER%20PROJETO-181717?style=for-the-badge&logo=github)](https://github.com/Gledsons7/SISTEMA_DE_BIBLIOTECA_PESSOAL_GLEDSON_DO_NASCIMENTO_SILVA)
+A personal library management system focused on organizing publications, reading progress and data persistence.
+
+**Focus:** Python · OOP · JSON · SQLite
+
+<a href="https://github.com/Gledsons7/SISTEMA_DE_BIBLIOTECA_PESSOAL_GLEDSON_DO_NASCIMENTO_SILVA">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
 
 ### 💇 Agenda Studio Rita
 
-Projeto acadêmico de agendamento para salão de beleza, com gerenciamento de horários e serviços.
+A salon appointment scheduling project with service management, availability rules and booking logic.
 
-## 📊 Estatísticas do GitHub
+**Focus:** JavaScript · HTML · CSS
+
+<a href="https://github.com/Gledsons7">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-2563eb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+## `github_stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gledsons7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<a href="https://github.com/Gledsons7">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gledsons7&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gledsons7&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Gledsons7">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gledsons7&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=cbd5e1" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Gledsons7&theme=tokyonight&hide_border=true" />
+<br>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Gledsons7&hide_border=true&background=020617&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8&sideLabels=cbd5e1&currStreakNum=ffffff&sideNums=ffffff&dates=94a3b8" />
+
+</div>
+
+## `contribution_activity`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Gledsons7&bg_color=020617&color=38bdf8&line=2563eb&point=ffffff&area=true&area_color=1d4ed8&hide_border=true" />
+
+</div>
+
+## `connect`
+
+<div align="center">
+
+<a href="https://github.com/Gledsons7">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38bdf8" />
+</a>
 
 </div>
 
@@ -64,8 +123,10 @@ Projeto acadêmico de agendamento para salão de beleza, com gerenciamento de ho
 
 <div align="center">
 
-### ✨ "Cada linha de código é um passo a mais na evolução."
+### `while(alive) { keep_learning(); }`
 
-![Visitas](https://komarev.com/ghpvc/?username=Gledsons7&color=2563eb&style=for-the-badge&label=VISITAS+AO+PERFIL)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:1d4ed8,100:020617&height=120&section=footer" />
+
+<sub>Designed with curiosity, powered by code. © Gledson Silva</sub>
 
 </div>
